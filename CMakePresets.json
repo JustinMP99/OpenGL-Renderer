@@ -3,8 +3,21 @@
     "configurePresets": [
       
         {
-            "name": "default",
-            "description": "Default settings for the OpenGL renderer",
+            "name": "Windows",
+            "description": "Windows Build settings for the OpenGL renderer",
+            "hidden": false,
+            "generator": "MinGW Makefiles",
+            "binaryDir": "${workspaceFolder}/Builds",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "YES"
+            }
+
+        },
+
+        {
+            "name": "Linux",
+            "description": "Linux Build settings for the OpenGL renderer",
             "hidden": false,
             "generator": "Unix Makefiles",
             "binaryDir": "${workspaceFolder}/Builds",
@@ -14,6 +27,7 @@
             }
 
         }
+        
 
     ]
 
