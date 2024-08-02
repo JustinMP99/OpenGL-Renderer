@@ -1,8 +1,7 @@
 [
 {
-  "directory": "C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Builds",
-  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe   -g -std=gnu++17 -o CMakeFiles\\OpenGL_Renderer.dir\\Application\\main.cpp.obj -c C:\\Users\\Justin\\Desktop\\Projects\\Graphics\\OpenGL-Renderer\\Application\\main.cpp",
-  "file": "C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Application/main.cpp",
-  "output": "CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.obj"
+  "directory": "/home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/Builds",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.o -c /home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/Application/main.cpp",
+  "file": "/home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/Application/main.cpp"
 }
 ]
