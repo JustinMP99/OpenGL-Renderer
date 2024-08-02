@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/OpenGL_Renderer.dir/main.cpp.o -o OpenGL_Renderer 

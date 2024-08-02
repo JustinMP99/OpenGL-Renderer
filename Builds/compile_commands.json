@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/Builds",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/OpenGL_Renderer.dir/main.cpp.o -c /home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/main.cpp",
+  "file": "/home/justinp/Desktop/Projects/Graphics/OpenGL-Renderer/main.cpp"
+}
+]
