@@ -1,15 +1,14 @@
 #include <iostream>
 
-#define GLFW_INCLUDE_NONE
-#include <glfw3.h>
-#include <glad.h>
 
+// #include <GLFW/glfw3.h>
+// #include "../Core/AdditionalLib/include/glad/glad.h"
 
 // #include "../Core/AdditionalLib/includes/glad/glad.h"
 // #include "../Core/AdditionalLib/includes/GLFW/glfw3.h"
 
 char hello;
-GLFWwindow* window;
+//GLFWwindow* window;
 int main()
 {
     //glfwInit();

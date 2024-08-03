@@ -23,22 +23,10 @@ project(OpenGL_Renderer VERSION 0.0.1 LANGUAGES C CXX)
 add_executable(${PROJECT_NAME} ./Application/main.cpp)
 
 
-find_package(OpenGL REQUIRED)
-#find_package(glfw3 REQUIRED)
-
 #==========================================================================================================
 #ADD SUBDIRECTORY
 #==========================================================================================================
 add_subdirectory(Core)
-
-target_include_directories(${PROJECT_NAME} PUBLIC Core/AdditionalLib/include/glad)
-target_include_directories(${PROJECT_NAME} PUBLIC Core/AdditionalLib/include/GLFW)
-
-
-#add_library(OpenGL_Renderer BUILD_SHARED_LIBS glfw3.h)
-
-
-#set_property(TARGET OpenGL_Renderer PROPERTY CXX_STANDARD 17)
 
 
 

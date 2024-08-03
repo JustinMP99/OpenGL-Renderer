@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "OpenGL_Renderer.exe"
-		},
-		{
-			"path" : "OpenGL_Renderer.pdb"
+			"path" : "OpenGL_Renderer"
 		}
 	],
 	"backtrace" : 1,
@@ -13,8 +10,7 @@
 	{
 		"commands" : 
 		[
-			"add_executable",
-			"target_include_directories"
+			"add_executable"
 		],
 		"files" : 
 		[
@@ -30,18 +26,6 @@
 				"file" : 0,
 				"line" : 23,
 				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 34,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 35,
-				"parent" : 0
 			}
 		]
 	},
@@ -52,17 +36,6 @@
 			[
 				{
 					"fragment" : "-g"
-				}
-			],
-			"includes" : 
-			[
-				{
-					"backtrace" : 2,
-					"path" : "C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Core/AdditionalLib/include/glad"
-				},
-				{
-					"backtrace" : 3,
-					"path" : "C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Core/AdditionalLib/include/GLFW"
 				}
 			],
 			"language" : "CXX",
@@ -84,16 +57,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "OpenGL_Renderer",
-	"nameOnDisk" : "OpenGL_Renderer.exe",
+	"nameOnDisk" : "OpenGL_Renderer",
 	"paths" : 
 	{
 		"build" : ".",

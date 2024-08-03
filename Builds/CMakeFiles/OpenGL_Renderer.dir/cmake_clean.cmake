@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.obj"
-  "CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.obj.d"
-  "OpenGL_Renderer.exe"
-  "OpenGL_Renderer.exe.manifest"
+  "CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.o"
+  "CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.o.d"
+  "OpenGL_Renderer"
   "OpenGL_Renderer.pdb"
-  "libOpenGL_Renderer.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
