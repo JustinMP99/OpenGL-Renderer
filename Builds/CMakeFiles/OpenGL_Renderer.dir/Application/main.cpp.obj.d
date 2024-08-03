@@ -135,4 +135,9 @@ CMakeFiles/OpenGL_Renderer.dir/Application/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/14.1.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/14.1.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/14.1.0/istream \
- C:/msys64/ucrt64/include/c++/14.1.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/14.1.0/bits/istream.tcc \
+ C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Core/AdditionalLib/include/glad/glad.h \
+ C:/msys64/ucrt64/include/KHR/khrplatform.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ C:/Users/Justin/Desktop/Projects/Graphics/OpenGL-Renderer/Core/AdditionalLib/include/GLFW/glfw3.h
